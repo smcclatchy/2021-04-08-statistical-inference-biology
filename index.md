@@ -14,7 +14,7 @@ enddate: 2021-04-29        # machine-readable end date for the workshop in YYYY-
 instructor: ["Dan Kerchner", "Mitch Kostich", "Annat Haber", "Sue McClatchy"] 
 helper: ["Alexis Garretson", "Olaitan Awe", "Michael Saul"]
 email: ["susan.mcclatchy@jax.org"] 
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2021-04-08-statistical-inference # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 147084837709
 ---
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
